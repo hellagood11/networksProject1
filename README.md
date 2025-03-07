@@ -1,5 +1,6 @@
 # networksProject1
-First project for the CS4220 Networks class
+First project for the CS4220 Networks class 
+
 CS 4220: Computer Networks
 Course Project 1
 Due Date in Canvas
