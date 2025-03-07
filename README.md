@@ -1,10 +1,6 @@
 # networksProject1
 First project for the CS4220 Networks class 
 
-CS 4220: Computer Networks
-Course Project 1
-Due Date in Canvas
-Instructor: Serena Sullivan
 Introduction
 Understanding how to apply security to networking is a critical component of layered security
 architecture. One method of applying security is by using protocols, such as Secure Sockets
